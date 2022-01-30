@@ -5,9 +5,208 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #659DBD;
+}
+
+.App {
+  background-color: #2F66A9;
+}
+
+@media screen and (max-width: 540px) {
+  .view {
+      width: 400px;
+      position: absolute;
+  }
+}
+
+@media screen and (min-width: 540px) and (max-width: 780px) {
+  .view {
+      width: 600px;
+  }
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#navbar {
+  background-color: #810303;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  /* display: flex;
+  justify-content: space-between;
+  text-align: center; */
+  z-index: 1030;
+}
+
+.navbar-brand {
+  position: fixed;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  z-index: 1030;
+}
+
+li {
+  margin: auto;
+}
+
+.test {
+  height: 900px;
+}
+
+#top{
+  position: relative;
+  top: 48px;
+}
+
+.nav-links {
+  font-weight: 800;
+  margin-top: 7px;
+}
+
+a {
+  /* padding: 20px; */
+  margin: 10px;
+}
+
+.a-tags {
+  text-decoration: none;
+  vertical-align: middle;
+  color: white;
+}
+
+.padding-section{
+  height: 115px;
+}
+
+#profile-pic {
+  position: relative;
+  border-radius: 40%;
+}
+
+#name {
+  font-size: 30px;
+  font-weight: 900;
+  color: #323031;
+}
+
+#job-titles {
+  font-size: 20px;
+  font-weight: 700;
+  color: #323031;
+}
+
+.titles {
+  font-size: 25px;
+  font-weight: 800;
+  color: white;
+}
+
+#portfolio {
+  position: relative;
+  top: 48px;
+}
+
+#portfolio-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+  gap: 1rem;
+}
+
+.portfolio-divs {
+  height: 150px;
+  width: 250px;
+  background-color: #B22222;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.portfolio-titles {
+  position: relative;
+  top: 57px;
+  color: white;
+}
+
+.portfolio-titles-two-words {
+  position: relative;
+  top: 38px;
+  color: white;
+}
+
+#simpsons-card-game-image {
+  position: relative;
+  right: 75px;
+}
+
+#library-database-image {
+  position: relative;
+  left: 30px;
+}
+
+#superhero-database-image {
+  position: relative;
+  left: 7px;
+}
+
+.about-me {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: white;
+}
+
+#about-me {
+  margin-top: 40px;
+}
+
+#technical-skills-title {
+  position: relative;
+  left: 120px;
+  float: left;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: white;
+}
+
+.technical-skills {
+  position: relative;
+  top: 30px;
+  float: left;
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: white;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: left;
+}
+
+#about-contact-divider {
+  height: 320px;
+}
+
+.portfolio-descriptions {
+  margin-top: 30px;
+}
+
+#contact-paragraph {
+  margin-top: 40px;
+}
+
+#resume-line {
+  color: white;
+}
+
+#resume-tag {
+  color: white;
+}
+
+#bottom {
+  height: 60px;
 }
