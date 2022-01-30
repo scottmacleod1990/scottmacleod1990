@@ -23,8 +23,6 @@ function App() {
     document.title = "Scott MacLeod"
   }, [])
 
-  // adding a comment line to see if this will make it deployable
-
   return (
     <div className="App">
       <header>
