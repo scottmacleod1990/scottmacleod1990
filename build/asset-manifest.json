@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/www.scottmacleodcodes.com/static/css/main.073c9b0a.css",
-    "main.js": "/www.scottmacleodcodes.com/static/js/main.8fe96e95.js",
+    "main.js": "/www.scottmacleodcodes.com/static/js/main.72cad949.js",
     "static/js/787.0c3f432a.chunk.js": "/www.scottmacleodcodes.com/static/js/787.0c3f432a.chunk.js",
     "static/media/logo.svg": "/www.scottmacleodcodes.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/www.scottmacleodcodes.com/index.html",
     "main.073c9b0a.css.map": "/www.scottmacleodcodes.com/static/css/main.073c9b0a.css.map",
-    "main.8fe96e95.js.map": "/www.scottmacleodcodes.com/static/js/main.8fe96e95.js.map",
+    "main.72cad949.js.map": "/www.scottmacleodcodes.com/static/js/main.72cad949.js.map",
     "787.0c3f432a.chunk.js.map": "/www.scottmacleodcodes.com/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8fe96e95.js"
+    "static/js/main.72cad949.js"
   ]
 }
