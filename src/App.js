@@ -23,8 +23,6 @@ function App() {
     document.title = "Scott MacLeod"
   }, [])
 
-  // added this to commit something and this
-
   return (
     <div className="App">
       <header>
