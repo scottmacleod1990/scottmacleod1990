@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          seeing if installing bootstrap helps
+          added a main branch
         </a>
       </header>
     </div>
