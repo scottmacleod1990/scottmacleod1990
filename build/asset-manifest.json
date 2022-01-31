@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b70d82ad.css",
-    "main.js": "/static/js/main.d84ad9da.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/index.html",
-    "main.b70d82ad.css.map": "/static/css/main.b70d82ad.css.map",
-    "main.d84ad9da.js.map": "/static/js/main.d84ad9da.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/www.scottmacleodcodes.com/static/css/main.b70d82ad.css",
+    "main.js": "/www.scottmacleodcodes.com/static/js/main.e8a7cd3c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/www.scottmacleodcodes.com/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/www.scottmacleodcodes.com/index.html",
+    "main.b70d82ad.css.map": "/www.scottmacleodcodes.com/static/css/main.b70d82ad.css.map",
+    "main.e8a7cd3c.js.map": "/www.scottmacleodcodes.com/static/js/main.e8a7cd3c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/www.scottmacleodcodes.com/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b70d82ad.css",
-    "static/js/main.d84ad9da.js"
+    "static/js/main.e8a7cd3c.js"
   ]
 }
