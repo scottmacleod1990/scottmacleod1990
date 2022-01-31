@@ -23,6 +23,8 @@ function App() {
     document.title = "Scott MacLeod"
   }, [])
 
+  // this comment is back
+
   return (
     <div className="App">
       <header>
